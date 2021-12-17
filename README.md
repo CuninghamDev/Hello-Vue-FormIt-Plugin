@@ -1,4 +1,4 @@
-# simplified-vue-to-formit-test
+# Vue to FormIt Template
 
 This template is meant to be forked and used as a solid basis for implementing Vue for FormIt plugin development.  This template also makes use of d3, because who doesn't love d3!
 
