@@ -1,0 +1,7 @@
+{
+    "PluginName": "Hello Vue",
+    "PluginDescription": "A template for developing FormIt plugins using Vue / Vuex / Vuetify and d3.  The combination of this front end framework and associated plugins / packages allows for the creation of interactive and intuitive interfaces and graphics inside the FormIt plugin development workflow.  \r \r Vue is the backbone of this workflow allowing data to be bound to interface elements and creating reactivity on data changes.  Vuex allows this data to be centralized in a store with the ability to set up custom getters and logic that can be referenced across all other components.  Vuetify provides an excellent library of easily formatted material design inspired interface elements.  D3 provides a library for building custom data visualizations that can be bound to underlying data, updated on data changes, and can even cause events that modify the state of the application.",
+    "PluginType": "Panel",
+    "Panel": "PLUGINLOCATION/dist/plugin.html",
+    "PanelIcon": "PLUGINLOCATION/src/assets/plugin.png"
+}
